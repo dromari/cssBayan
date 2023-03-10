@@ -1,14 +1,17 @@
-@media screen and (min-width: 820px)
-
-/*and (min-height: 1180px) */
-    {
+@media screen and (min-width: 820px) {
     body {
-        font-size: 90%;
+        font-size: 115%;
     }
 
-    .accordion_trigger {
+    header {
+        margin: 4%;
+    }
+
+    .mem-label {
         cursor: pointer;
     }
+
+
 
 
 
