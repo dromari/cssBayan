@@ -57,7 +57,7 @@
     }
 
     .mem-radio {
-        position: absolute;
+
         display: none;
     }
 
@@ -103,10 +103,12 @@
 
     .bayan input:checked+label+.img-mem {
         height: auto;
-        margin-top: -5px;
         color: #000;
-        padding: 20px 30px 10px;
+        padding: 1em 2em 1em;
+        transition: 0.3s ease-in;
     }
+
+
 
 
 
