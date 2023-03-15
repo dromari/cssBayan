@@ -1,0 +1,29 @@
+@media screen and (min-width: 820px) {
+    body {
+        font-size: 115%;
+    }
+
+    header {
+        margin: 4%;
+    }
+
+    .mem-label {
+        cursor: pointer;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
